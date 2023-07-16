@@ -6,7 +6,7 @@ A ready-to-use boilerplate for React JS with Redux and Saga.
 
 ## Project Overview
 
-This is a basic project structure with repeatative use cases. Added some essential feature for every projects. It is very useful to build mid to complex level project. This project structure is based on **NodeJs api boilerplate app:** https://github.com/maitraysuthar/rest-api-nodejs-mongodb
+This is a basic project structure with repeatative use cases. Added some essential feature for every projects. It is very useful to build mid to complex level project. This project structure is based on **NodeJs api boilerplate app:** 
 
 I had tried to maintain the code structure easy as any beginner can also adopt the flow and start building a great app. Project is open for suggestions, Bug reports and pull requests.
 
@@ -14,7 +14,6 @@ I had tried to maintain the code structure easy as any beginner can also adopt t
 
 If you consider my project as helpful stuff, You can appreciate me or my hard work and time spent to create this helpful structure with buying a coffee for me.
 
-<a href='https://ko-fi.com/U6U617IA8' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://az743702.vo.msecnd.net/cdn/kofi2.png?v=2' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a> &nbsp;&nbsp; <a href="https://www.buymeacoffee.com/36GgOoQ2f" target="_blank"><img src="https://bmc-cdn.nyc3.digitaloceanspaces.com/BMC-button-images/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: auto !important;width: auto !important;" ></a>
 
 ## Features
 
